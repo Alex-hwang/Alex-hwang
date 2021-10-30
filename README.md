@@ -1,4 +1,4 @@
-### Hi there, I'm Alex Hwang, a SRE student from ZJU.👋
+### Hi there, I'm Alex Hwang, SRE student from ZJU.👋
 
 ### Status
 
