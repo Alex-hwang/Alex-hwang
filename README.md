@@ -1,5 +1,6 @@
-### Hi there, I'm Alex Hwang.  👋
+### Hi there, I'm Alex Hwang, a SRE student from ZJU.👋
 
+### Status
 
 - 🌱 I’m currently learning linux and finance 
 - 🥅 2021 Goals: Contribute to open source projects
