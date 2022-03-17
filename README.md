@@ -3,7 +3,7 @@
 ### Status
 
 - 🌱 I’m currently learning linux and finance 
-- 🥅 2021 Goals: Contribute to open source projects
+- 🥅 2022 Goals: Contribute to open source projects
 
 ### Connect with me:
 
