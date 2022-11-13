@@ -1,9 +1,9 @@
-### Hi there, I'm Alex Hwang, SRE student from ZJU.👋
+### Hi there, I'm Alex Huang, an engineer working at optiver shanghai👋
 
 ### Status
 
 - 🌱 I’m currently learning linux and finance 
-- 🥅 2022 Goals: Contribute to open source projects
+- 🥅 2023 Goals: Contribute to open source projects
 
 ### Connect with me:
 
