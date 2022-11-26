@@ -32,7 +32,7 @@
 <summary>:zap: GitHub Stats</summary>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALex-Hwang&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcticCafe&show_icons=true&theme=radical)
 
 
 [linkedin]: https://www.linkedin.com/in/沈一-黄-525a3219a/
