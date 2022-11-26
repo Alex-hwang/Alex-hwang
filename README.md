@@ -1,4 +1,4 @@
-### Hi there, I'm Alex Huang, an engineer working at optiver shanghai👋
+### Hi there, I'm Alex Huang, an engineer working at Optiver Shanghai👋
 
 ### Status
 
